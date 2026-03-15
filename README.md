@@ -4,3 +4,4 @@
 2026年03月13日09:19:00：完成clash代理配置，具体经验已写入飞书。计划：继续看ROS课程
 2026年03月13日20:08:58：下载vscode，下载terminator
 2026年03月14日19:30:40：学习node节点和topic以及launch使用，topic的python实现还未完成
+2026年03月15日19:44:51：进行codex的vscode配置，解决vscode网络代理问题
