@@ -5,4 +5,5 @@
 2026年03月13日20:08:58：下载vscode，下载terminator
 2026年03月14日19:30:40：学习node节点和topic以及launch使用，topic的python实现还未完成
 2026年03月15日19:44:51：进行codex的vscode配置，解决vscode网络代理问题
-2026年03月16日21:35:00：完成ros的基本学习，从github上找到xarm7的功能包并成功部署，计划：将ros，moveit!,gazebo，的使用连接起来
+2026年03月16日21:35:00：完成ros的基本学习，从github上找到xarm7的功能包并成功部署，计划：将ros，moveit!,gazebo，的使用连接起来\
+2026年03月17日21:42:37：按照教程了解moveit!,gazebo,rvis链接起来所用的文件和方法，并不明了，明天继续
